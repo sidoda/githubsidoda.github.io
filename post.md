@@ -14,7 +14,7 @@ last_modified_at: 2019-04-13T08:06:00-05:00
 # 컴파일
 ## C
 ### <mark>gcc dependency -o target</mark>
-### gcc -o target dependency
+### *gcc -o target dependency*
 ## JAVA
 ### javac bin path
 ## C++
