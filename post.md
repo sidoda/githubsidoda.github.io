@@ -13,7 +13,7 @@ last_modified_at: 2019-04-13T08:06:00-05:00
 # <span style="color:purple">명령어
  # 컴파일
 ## C
- ### <mark>*gcc dependency -o target*</mark>
+ ### <mark>gcc dependency -o target</mark>
  ### gcc -o target dependency
 ## JAVA
  ### javac bin path
